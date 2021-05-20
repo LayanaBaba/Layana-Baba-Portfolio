@@ -363,6 +363,7 @@ class Landing extends React.Component {
                     </blockquote>
                   </Card>
                 </Col>
+                
                 <Col md="6">
                   <div className="pl-md-5">
                     <div className="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5">
